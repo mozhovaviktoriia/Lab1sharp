@@ -1,0 +1,14 @@
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\bin\Debug\net8.0\Lab1sharp.exe
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\bin\Debug\net8.0\Lab1sharp.deps.json
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\bin\Debug\net8.0\Lab1sharp.runtimeconfig.json
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\bin\Debug\net8.0\Lab1sharp.dll
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\bin\Debug\net8.0\Lab1sharp.pdb
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.AssemblyInfoInputs.cache
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.AssemblyInfo.cs
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.csproj.CoreCompileInputs.cache
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.dll
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\refint\Lab1sharp.dll
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.pdb
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\Lab1sharp.genruntimeconfig.cache
+C:\Users\vikus\source\repos\Lab1sharp\Lab1sharp\obj\Debug\net8.0\ref\Lab1sharp.dll
