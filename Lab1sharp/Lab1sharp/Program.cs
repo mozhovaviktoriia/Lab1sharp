@@ -22,7 +22,7 @@ namespace threaddemo
             // Запускаємо керуючий потік
             new Thread(Stoper).Start();
 
-            // Запускаємо робочі потоки з різними кроками
+            // Запускає потоки з різними кроками
             for (int i = 0; i < numberOfThreads; i++)
             {
                 int threadId = i + 1;
