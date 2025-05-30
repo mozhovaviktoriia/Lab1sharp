@@ -5,10 +5,10 @@ namespace threaddemo
 {
     class Program
     {
-        // volatile для правильного читання прапорця в різних потоках
+        
         private volatile bool canStop = false;
 
-        // Кількість потоків і кроки для кожного
+        // К-сть потоків
         private int numberOfThreads = 4;
         private int[] steps = { 1, 2, 3, 4 };
 
